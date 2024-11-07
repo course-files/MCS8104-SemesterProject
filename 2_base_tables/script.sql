@@ -1,1 +1,1 @@
--- Write your SQL code here
+-- Type your SQL code here
