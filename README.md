@@ -1,4 +1,4 @@
-# BBT3104: Advanced Database Systems Semester Project
+# MCS8104: Database Management Systems Semester Project
 
 | **Key**                                                               | Value                                                                                                                                                                              |
 |---------------|---------------------------------------------------------|
@@ -7,10 +7,8 @@
 | **Group Name**                                                               | ? |
 | **Semester Duration**                                                 | 3<sup>rd</sup> September - 29<sup>th</sup> November 2024                                                                                                                       |
 
-# Enhanced Entity Relationship Diagram (EERD)
+## Enhanced Entity Relationship Diagram (EERD)
 
+## Database Schema
 
-# Database Schema
-
-
-# System Architecture
+## System Architecture
