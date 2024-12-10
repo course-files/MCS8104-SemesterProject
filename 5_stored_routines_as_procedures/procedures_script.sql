@@ -1,1 +1,1 @@
--- SQL code to create procedures used to retrieve information (processed data)
+-- SQL code (DDL/DML/DQL) to create procedures used to retrieve information (processed data)

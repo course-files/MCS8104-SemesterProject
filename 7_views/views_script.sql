@@ -1,1 +1,1 @@
--- SQL code to create views to display data and information
+-- SQL code (DDL/DML/DQL) to create views to display data and information
