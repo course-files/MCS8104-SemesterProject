@@ -1,1 +1,1 @@
--- Code for creating the database, creating a user, and granting the user the required privileges
+-- SQL code (DDL and DCL) for creating the database, creating a user, and granting the user the required privileges

@@ -1,1 +1,1 @@
--- Code to create views to display data and information
+-- SQL code to create views to display data and information

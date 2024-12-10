@@ -1,1 +1,1 @@
--- Code to insert synthetic data into the base tables
+-- SQL code (DML) to insert synthetic data into the base tables (in the correct order to avoid foreign key errors)
